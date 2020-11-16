@@ -1,3 +1,4 @@
+![headshot](jasonAlternateImage.png)
 # A little insight into Jason Owen
 My name is Jason Owen and I am learning how to use GitHub, again. 
 
