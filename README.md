@@ -7,3 +7,6 @@ I really like working in tech. I like being in a position where I can design and
 
 ## My hobbies
 I enjoy hiking and backpacking in wilderness areas. 
+
+## My favorite books
+Desert Solitaire, by Edward Abbey
